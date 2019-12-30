@@ -1,0 +1,9 @@
+For a in range(0,3)
+
+a=input(""):
+If a==("hi how are you"):
+print("i am fine what about you")
+If a==("from now your name is tony"):
+Print("ok from now my name is Tony"):
+If a==("who you are"):
+Print("i am your personal A.I")
